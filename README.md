@@ -17,6 +17,10 @@ These notes and sample code are based on my personal learning journey with Rust.
 
 ## Notes
 
+1.  Getting Started
+
+  [1.2. Hello, World!](1-2-Hello-World/notes.md)
+
 - To be added
 
 ## Getting Started
