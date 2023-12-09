@@ -23,7 +23,7 @@ For Windows CMD, enter this:
 > cd hello_world
 ```
 
-## Writing Your First Rust Program
+## Write Your First Rust Program
 
 Create a new source file called **main.rs** inside hello_world directory.
 
@@ -34,7 +34,7 @@ fn main() {
 }
 ```
 
-## Running Your First Rust Program
+## Run Your First Rust Program
 
 On Linux or macOS, enter:
 ```
