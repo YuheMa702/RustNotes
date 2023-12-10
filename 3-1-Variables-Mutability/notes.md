@@ -8,7 +8,7 @@
 
 **Notes:**
 
-1. For inmmutable variables, once it's bound to a name, you can't change it! Otherwise, you will get an immutability error during compilation.
+1. For immutable variables, once it's bound to a name, you can't change it! Otherwise, you will get an immutability error during compilation.
 2. The Rust compiler **gaurantees** that when you state a value won't change, it really won't change.
 
 ## Make Variables Mutable with `mut` Keyword
@@ -46,7 +46,7 @@ let mut current_time = 0;
 const ONE_HOUR_IN_SECONDS: u32 = 60 * 60;
 ```
 
-There are few differences between constants and immutable variables:
+There are a few differences between constants and variables:
 
 | Constants       | Variables (default) |
 |:----------------|:--------------------|
@@ -57,7 +57,7 @@ There are few differences between constants and immutable variables:
 
 ## Shadowing
 
-When you declare a new variablbe with the same name the previous one, the previous one gets shadowed:
+When you declare a new variable with the same name as the previous one, the previous one gets shadowed:
 
 ```rust
 fn main() {
