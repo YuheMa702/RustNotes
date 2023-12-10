@@ -25,7 +25,7 @@ These notes and sample code are based on my personal learning journey with Rust.
 2. Number Guessing Game
 3. Rust Fundamentals
 
-    [3.1 Variables and Mutability](3-1-Variable-Mutability/notes.md)
+    [3.1 Variables and Mutability](3-1-Variables-Mutability/notes.md)
    
 - To be added
 
