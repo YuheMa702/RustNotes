@@ -22,7 +22,11 @@ These notes and sample code are based on my personal learning journey with Rust.
     [1.2. Hello, World!](1-2-Hello-World/notes.md)
    
     [1.3. Hello, Cargo!](1-3-Hello-Cargo/notes.md)
+2. Number Guessing Game
+3. Rust Fundamentals
 
+    [3.1 Variables and Mutability](3-1-Variable-Mutability/notes.md)
+   
 - To be added
 
 ## Getting Started
