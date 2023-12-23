@@ -26,6 +26,8 @@ These notes and sample code are based on my personal learning journey with Rust.
 3. Rust Fundamentals
 
     [3.1 Variables and Mutability](3-1-Variables-Mutability/notes.md)
+
+    [3.2 Data Types](3-2-Data-Types/notes.md)
    
 - To be added
 
